@@ -1,0 +1,14 @@
+1.ABC
+2.
+type A struct{
+  str string  
+  num1 int32
+  byte1 byte
+  a struct{}
+}
+3.C
+4.C
+5.A
+6.不是
+nil 接口值既不保存值也不保存具体类型
+空接口可保存任何类型的值，空接口也可以被用来处理未知类型的值
